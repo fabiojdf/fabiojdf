@@ -1,7 +1,7 @@
 ## Hey! My name is Fábio Júnior
 
 - 🌎 Geophysics undergraduate student at Universidade Federal Fluminense (UFF), Brazil
-- 👻 Working with Python development of seismic inversion techniques, Bayesian classification and beginning in machine learning
+- 👻 Working with Python development of seismic inversion techniques, Bayesian classification and beginning with machine learning
 - 💻 Currently learning about APIs building in Python with FastAPI web framework and PostgreSQL databases
 
 <div align="center">

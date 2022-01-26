@@ -2,7 +2,9 @@
 
 - 🌎 Geophysics undergraduate student at Universidade Federal Fluminense (UFF), Brazil
 - 👻 Working with Python development of seismic inversion techniques, Bayesian classification and beginning with machine learning
+- 🎈 Developing petrophysics and rock physics routines for stoneforge package
 - 💻 Currently learning about APIs building in Python with FastAPI web framework and PostgreSQL databases
+- 📚 Reading the book Data Structures in Python
 
 <div align="center">
   <a href="https://github.com/fabiojdf">

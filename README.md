@@ -1,10 +1,8 @@
 ## Hey! My name is Fábio Júnior
 
-- 🌎 Geophysics undergraduate student at Universidade Federal Fluminense (UFF), Brazil
+- 🌎 Master degree student at Universidade Federal Fluminense (UFF), Brazil
 - 👻 Working with Python development of seismic inversion techniques, Bayesian classification and beginning with machine learning
 - 🎈 Developing petrophysics and rock physics routines for stoneforge package
-- 🧐 Investigating dlisio package
-- 📚 Reading the book Data Structures and Algorithms in Python
 
 <div align="center">
   <a href="https://github.com/fabiojdf">

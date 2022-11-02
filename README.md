@@ -1,7 +1,7 @@
 ## Hey! My name is Fábio Júnior
 
-- 🌎 Master degree student at Universidade Federal Fluminense (UFF), Brazil
-- 👻 Working with Python development of seismic inversion techniques, Bayesian classification and beginning with machine learning
+- 🌎 MSc student at Universidade Federal Fluminense (UFF), Brazil
+- 👻 Working with seismic inversion and deep learning
 - 🎈 Developing petrophysics and rock physics routines for stoneforge package
 
 <div align="center">
@@ -12,9 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabio-Python" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fabio-Numpy" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Fabio-Qt" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
   <img align="center" alt="Fabio-pandas" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Fabio-postgresql" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
   
 ##
